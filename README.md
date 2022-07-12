@@ -1,7 +1,7 @@
 # 90DaysDSA
 
 DAY1:
-Write what all you did today? What all you learned?
+Started Time complexity
 
 Day2:
 .
